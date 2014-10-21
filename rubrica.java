@@ -1,5 +1,3 @@
-package rubrica;
-
 import java.util.*;
 
 import javax.swing.*;
